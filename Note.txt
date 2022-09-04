@@ -1,0 +1,6 @@
+=== Belajar Golang Dasar ===
+- perintah untuk build
+  go build namafile.go
+- perintah untuk eksekusi
+  ./namafile.go
+- hasil file akan mengikuti sistem operasi saat file .go di compile
