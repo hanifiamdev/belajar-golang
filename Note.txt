@@ -1,4 +1,5 @@
 === Belajar Golang Dasar ===
+## Running file go ##
 - perintah untuk build
   go build namafile.go
 - perintah untuk eksekusi
@@ -6,3 +7,5 @@
 - hasil file akan mengikuti sistem operasi saat file .go di compile
 - Jika ingin menjalankan tanpa kompilasi karena masih tahap belajar / test kode saja bisa gunakan perintah 
   go run namafile.go
+## Tipe Data Number ##
+- integer dan floating
